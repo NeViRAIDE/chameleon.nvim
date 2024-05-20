@@ -1,0 +1,25 @@
+local color = require('chameleon.colors').palette
+
+return {
+  TodoBgFix = { fg = color.background, bg = color.red, bold = true },
+  TodoBgHack = { fg = color.background, bg = color.orange, bold = true },
+  TodoBgNote = { fg = color.background, bg = color.white, bold = true },
+  TodoBgPerf = { fg = color.background, bg = color.magenta, bold = true },
+  TodoBgTest = { fg = color.background, bg = color.magenta, bold = true },
+  TodoBgTodo = { fg = color.background, bg = color.yellow, bold = true },
+  TodoBgWarn = { fg = color.orange, bold = true },
+  TodoFgFix = { fg = color.red },
+  TodoFgHack = { fg = color.orange },
+  TodoFgNote = { fg = color.white },
+  TodoFgPerf = { fg = color.magenta },
+  TodoFgTest = { fg = color.magenta },
+  TodoFgTodo = { fg = color.yellow },
+  TodoFgWarn = { fg = color.orange },
+  TodoSignFix = { link = 'TodoFgFix' },
+  TodoSignHack = { link = 'TodoFgHack' },
+  TodoSignNote = { link = 'TodoFgNote' },
+  TodoSignPerf = { link = 'TodoFgPerf' },
+  TodoSignTest = { link = 'TodoFgTest' },
+  TodoSignTodo = { link = 'TodoFgTodo' },
+  TodoSignWarn = { link = 'TodoFgWarn' },
+}
