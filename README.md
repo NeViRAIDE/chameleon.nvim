@@ -21,73 +21,73 @@ NeViRAIDE colorschemes
 
 > #### **_<div align = right>// Catppuccin-Mocha</div>_**
 >
-> ![Catppuccin-Mocha#1](./.screenshots/themes/catppuccin-mocha.png) <br><br>
+> ![Catppuccin-Mocha#1](./.screenshots/catppuccin-mocha.png) <br><br>
 
 <hr>
 
 > #### **_<div align = right>// Catppuccin-Latte</div>_**
 >
-> ![Catppuccin-Latte#1](./.screenshots/themes/catppuccin-latte.png)<br><br>
+> ![Catppuccin-Latte#1](./.screenshots/catppuccin-latte.png)<br><br>
 
 <hr>
 
 > #### **_<div align = right>// Decay-Green</div>_**
 >
-> ![Decay-Green#1](./.screenshots/themes/decay-green.png)<br><br>
+> ![Decay-Green#1](./.screenshots/decay-green.png)<br><br>
 
 <hr>
 
 > #### **_<div align = right>// Rosé-Pine</div>_**
 >
-> ![Rosé-Pine#1](./.screenshots/themes/rose-pine.png)<br><br>
+> ![Rosé-Pine#1](./.screenshots/rose-pine.png)<br><br>
 
 <hr>
 
 > #### **_<div align = right>// Tokyo-Night</div>_**
 >
-> ![Tokyo-Night#1](./.screenshots/themes/tokyo-night.png)<br><br>
+> ![Tokyo-Night#1](./.screenshots/tokyo-night.png)<br><br>
 
 <hr>
 
 > #### **_<div align = right>// Material-Sakura</div>_**
 >
-> ![Material-Sakura#1](./.screenshots/themes/material-sacura.png)<br><br>
+> ![Material-Sakura#1](./.screenshots/material-sacura.png)<br><br>
 
 <hr>
 
 > #### **_<div align = right>// Graphite-Mono</div>_**
 >
-> ![Graphite-Mono#1](./.screenshots/themes/graphite-mono.png)<br><br>
+> ![Graphite-Mono#1](./.screenshots/graphite-mono.png)<br><br>
 
 <hr>
 
 > #### **_<div align = right>// Cyberpunk-Edge</div>_**
 >
-> ![Cyberpunk-Edge#1](./.screenshots/themes/cyberpunk-edge.png)<br><br>
+> ![Cyberpunk-Edge#1](./.screenshots/cyberpunk-edge.png)<br><br>
 
 <hr>
 
 > #### **_<div align = right>// Frosted-Glass</div>_**
 >
-> ![Frosted-Glass#1](./.screenshots/themes/frosted-glass.png)<br><br>
+> ![Frosted-Glass#1](./.screenshots/frosted-glass.png)<br><br>
 
 <hr>
 
 > #### **_<div align = right>// Gruvbox-Retro</div>_**
 >
-> ![Gruvbox-Retro#1](./.screenshots/themes/gruvbox-retro.png)
+> ![Gruvbox-Retro#1](./.screenshots/gruvbox-retro.png)
 
 <hr>
 
 > #### **_<div align = right>// Synth-Wave</div>_**
 >
-> ![Synth-Wave#1](./.screenshots/themes/synth-wave.png)
+> ![Synth-Wave#1](./.screenshots/synth-wave.png)
 
 <hr>
 
 > #### **_<div align = right>// One-Dark</div>_**
 >
-> ![One-Dark#1](./.screenshots/themes/one-dark.png)
+> ![One-Dark#1](./.screenshots/one-dark.png)
 
 <hr>
 
