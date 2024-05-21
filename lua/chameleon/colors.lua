@@ -4,10 +4,10 @@ M.palette = {}
 
 local function set_colors()
   ---@type table
-  local theme_colors = require('chameleon').get_theme_tb('colors')
+  local theme_colors = require('chameleon.utils').get_theme_tb('colors')
   local kitty_colors = require('neviraide-ui.kitty').colors.kitty
 
-  if require('neviraide-ui').config.ui.hyde then
+  if require('chameleon').config.hyde then
     -- combine theme_colors and kitty_colors
     for key, value in pairs(theme_colors) do
       if kitty_colors[key] ~= nil then

@@ -1,6 +1,5 @@
 local color = require('chameleon.colors').palette
-local generate_color =
-  require('chameleon.colors').change_hex_lightness
+local generate_color = require('chameleon.colors').change_hex_lightness
 
 local defaults = {
   LineSeparator = {
@@ -224,11 +223,9 @@ local defaults = {
   },
 }
 
-local merge_tb = require('chameleon').merge_tb
-defaults = merge_tb(
-  defaults,
-  require('chameleon').load_highlight('neviline')
-)
+local merge_tb = require('chameleon.utils').merge_tb
+defaults =
+  merge_tb(defaults, require('chameleon.utils').load_highlight('neviline'))
 
 defaults.NuiTitle = { bg = 'none', fg = color.active_accent, bold = true }
 
