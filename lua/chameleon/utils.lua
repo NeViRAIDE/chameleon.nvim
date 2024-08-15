@@ -19,7 +19,7 @@ M.get_theme_tb = function(type)
     return default_theme[type]
   else
     -- Otherwise, throw an error indicating that the theme does not exist
-    error('No such theme!')
+    error()
   end
 end
 
